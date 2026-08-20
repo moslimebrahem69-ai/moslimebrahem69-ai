@@ -488,7 +488,7 @@ The goal is not to claim expertise in every one of these areas, but to explore h
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/moslimebrahem69-ai/moslimebrahem69-ai/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+<img src="https://raw.githubusercontent.com/moslimebrahem69-ai/moslimebrahem69-ai/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
 
 </div>
 
