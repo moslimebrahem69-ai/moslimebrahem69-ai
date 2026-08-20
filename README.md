@@ -486,7 +486,11 @@ The goal is not to claim expertise in every one of these areas, but to explore h
 
 <a href="https://github.com/moslimebrahem69-ai">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation">
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/moslimebrahem69-ai/moslimebrahem69-ai/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+
+</div>
 
 </a>
 
