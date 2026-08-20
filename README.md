@@ -1,284 +1,577 @@
 <div align="center">
 
-# 👋 Hi, I'm **Moslim Ebrahim**
+<a href="https://github.com/moslimebrahem69-ai">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Moslim+Ebrahim+%F0%9F%91%8B;Developer+%7C+Builder+%7C+AI+Explorer;Software+%C3%97+AI+%C3%97+Automation;Mechatronics+Student+%26+Tech+Builder" alt="Animated introduction">
+</a>
 
-### `Developer` · `Builder` · `AI Explorer` · `Mechatronics Student`
+<br>
 
-<p>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+<a href="https://github.com/moslimebrahem69-ai">
+  <img src="https://komarev.com/ghpvc/?username=moslimebrahem69-ai&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile views">
+</a>
 
-<p>
-  <strong>Learn → Build → Experiment → Improve → Repeat</strong>
-</p>
+<a href="https://github.com/moslimebrahem69-ai?tab=followers">
+  <img src="https://img.shields.io/github/followers/moslimebrahem69-ai?style=for-the-badge&logo=github&label=FOLLOWERS" alt="GitHub followers">
+</a>
+
+<a href="https://github.com/moslimebrahem69-ai?tab=repositories">
+  <img src="https://img.shields.io/github/stars/moslimebrahem69-ai?style=for-the-badge&logo=github&label=TOTAL%20STARS" alt="GitHub stars">
+</a>
+
+<br><br>
+
+### `Software Developer` · `AI Builder` · `Flutter Developer` · `Mechatronics Student`
+
+**Building ideas into real projects — one experiment at a time.**
+
+<br>
+
+[🌐 Portfolio](https://code-verse1.lovable.app) ·
+[💼 LinkedIn](https://www.linkedin.com/in/moslim-ebrahim-0ba71b2b9/) ·
+[⚡ CodeVerse](https://www.facebook.com/share/1Eud4EiKmt/) ·
+[📘 Facebook](https://www.facebook.com/share/1HMmdiSH3f/)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 🧑‍💻 About Me
 
-I'm a young developer focused on turning ideas into practical software products.
+I'm **Moslim Ebrahim**, a developer and builder exploring the intersection of **software development, AI, automation, application development, and Mechatronics**.
 
-My interests span **web development, application development, AI-powered development, automation, UI/UX, and modern developer tools**. I learn primarily by building, experimenting with technologies, and solving real problems through projects.
+I enjoy turning ideas into working products, experimenting with modern technologies, and learning through practical implementation.
 
-I'm also a **Mechatronics student at Delta Technological University (DTU)**, which gives me a broader perspective on the connection between software, automation, machines, electronics, and intelligent systems.
+My development mindset is simple:
 
-> I don't aim to know everything. I aim to keep learning, building, and getting better.
+<div align="center">
 
----
+### `Learn → Build → Experiment → Improve → Repeat`
 
-## 🎯 Current Focus
+</div>
 
-```text
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│  🌐  Modern Web Development                              │
-│  📱  Flutter & Application Development                   │
-│  🤖  AI-Powered Development & AI Agents                  │
-│  ⚙️  Automation & API Integration                        │
-│  🎨  UI/UX & Product-Oriented Development                │
-│  🧩  Software × AI × Automation × Mechatronics           │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
+I'm not trying to present myself as an expert in everything.
 
-I'm currently focused on improving my development fundamentals while exploring modern technologies that help me build faster, smarter, and more useful applications.
+I'm building my skills step by step through **real projects, experimentation, problem solving, and continuous learning**.
 
 ---
 
-## 🧰 Tech Stack
+# 🎯 Current Focus
 
-### Languages
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,dart,c,cpp" alt="Languages">
-</p>
+<table>
+<tr>
+<td align="center" width="25%">
 
-**HTML · CSS · JavaScript · TypeScript · Python · Dart · C · C++**
+### 🌐
 
-### Web Development
+**WEB**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs" alt="Web Technologies">
-</p>
+Modern Web Development
+Responsive Interfaces
+UI Development
 
-**React · Node.js · Modern JavaScript · Responsive Web Design · UI Development**
+</td>
 
-### Mobile Development
+<td align="center" width="25%">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile Technologies">
-</p>
+### 📱
 
-**Flutter · Dart**
+**MOBILE**
 
-### AI & Automation
+Flutter
+Dart
+Application Development
 
-**AI Tools · AI-Assisted Development · AI Agents · AI Automation · Generative AI · Prompt Engineering · n8n · API Integration**
+</td>
 
-### Development Tools
+<td align="center" width="25%">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools">
-</p>
+### 🤖
 
-**Git · GitHub · VS Code**
+**AI**
+
+AI Agents
+AI-Assisted Development
+Generative AI
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️
+
+**AUTOMATION**
+
+n8n
+APIs
+Workflow Automation
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+modern+web+experiences...;Exploring+AI-powered+development...;Creating+Flutter+applications...;Experimenting+with+automation...;Connecting+software+with+real-world+systems..." alt="Current focus animation">
+
+</div>
 
 ---
 
-## 🤖 AI × Development
+# 🧰 Tech Stack
 
-AI is part of my development workflow — not as a replacement for understanding, but as a tool for exploring ideas, accelerating experimentation, and building better products.
+### 💻 Languages
 
-I use AI across areas such as:
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,dart,c,cpp" alt="Programming languages">
+</p>
+
+`HTML` · `CSS` · `JavaScript` · `TypeScript` · `Python` · `Dart` · `C` · `C++`
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs" alt="Web development">
+</p>
+
+`React` · `Node.js` · `Modern JavaScript` · `Responsive Web Design` · `UI Development`
+
+### 📱 Mobile Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile development">
+</p>
+
+`Flutter` · `Dart`
+
+### 🤖 AI & Automation
+
+`AI Tools` · `AI-Assisted Development` · `AI Agents` · `Generative AI` · `AI Automation` · `Prompt Engineering` · `n8n` · `API Integration`
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development tools">
+</p>
+
+`Git` · `GitHub` · `VS Code`
+
+---
+
+# 🤖 AI × Development
+
+AI has become an important part of the way I explore and build software.
+
+I use AI as a **development accelerator and experimentation tool** across:
 
 * AI-assisted development
 * Rapid prototyping
 * AI agents
 * Workflow automation
-* API integrations
+* API integration
 * Problem solving
 * Development productivity
-* Experimenting with new ideas
+* Exploring new technologies
 * Building AI-powered applications
 
-My approach is simple:
+<div align="center">
 
-> **Use AI to build more — while continuing to understand what I'm building.**
+> **AI helps me move faster. Understanding helps me move further.**
+
+</div>
 
 ---
 
-## ⚙️ Mechatronics × Software
+# 🚀 What I'm Building
 
-Studying Mechatronics has shaped the way I think about technology beyond software alone.
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2300&pause=650&color=2563EB&center=true&vCenter=true&width=750&lines=Web+Applications;Flutter+Applications;AI-Powered+Tools;Automation+Workflows;Developer+Tools;Experimental+Products;Software+%2B+Mechatronics+Ideas" alt="What I'm building">
+
+<br><br>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🌐
+
+**Web Products**
+
+Building modern web experiences and experimenting with product-focused interfaces.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🤖
+
+**AI Products**
+
+Exploring AI-powered applications, agents, and intelligent workflows.
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚙️
+
+**Engineering**
+
+Exploring the connection between software, automation, machines, and Mechatronics.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🏗️ Featured Projects
+
+<div align="center">
+
+### Selected projects and products
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 🛠️ Code Forge
+
+A software-focused project exploring modern application development and product design.
+
+**Focus**
+
+`Web` · `UI` · `Application Development`
+
+<br>
+
+🔗 **Live Project**
+
+[Open Code Forge](https://code-forge5.vercel.app/)
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🔐 MPS LockBox
+
+A web project focused around a digital lockbox/security-oriented product concept.
+
+**Focus**
+
+`Web` · `UI` · `Product Development`
+
+<br>
+
+🔗 **Live Project**
+
+[Open MPS LockBox](https://mps-lockbox.lovable.app)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## ⚙️ Mecha
+
+A project connected to the engineering and Mechatronics side of my technical interests.
+
+**Focus**
+
+`Mechatronics` · `Software` · `Engineering`
+
+<br>
+
+🔗 **Live Project**
+
+[Open Mecha](https://mecha5.lovable.app)
+
+</td>
+
+<td width="50%" valign="top">
+
+## ❄️ Dawod Cool Pro
+
+A web project built around a real-world business/service concept.
+
+**Focus**
+
+`Web` · `UI` · `Product Development`
+
+<br>
+
+🔗 **Live Project**
+
+[Open Dawod Cool Pro](https://dawod-cool-pro.lovable.app)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## 📚 Study System
+
+A study-oriented web application focused on creating a better digital learning experience.
+
+**Focus**
+
+`Web` · `Education` · `Application Development`
+
+<br>
+
+🔗 **Live Project**
+
+[Open Study System](https://study-system-pink.vercel.app/)
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🌐 CodeVerse
+
+My personal technology brand and digital presence.
+
+**Focus**
+
+`Technology` · `Content` · `Developer Brand`
+
+<br>
+
+🔗 **Visit CodeVerse**
+
+[Open CodeVerse](https://code-verse1.lovable.app)
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📚 Learning Journey
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=600&color=38BDF8&center=true&vCenter=true&width=700&lines=Learning+by+building...;Turning+ideas+into+experiments...;Turning+experiments+into+projects...;Turning+projects+into+experience..." alt="Learning journey animation">
+
+<br><br>
+
+<table>
+<tr>
+<td align="center">
+
+### 01
+
+🧠
+
+**Learn**
+
+Understand the concept and its fundamentals.
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+### 02
+
+🔨
+
+**Build**
+
+Turn knowledge into something real.
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+### 03
+
+🧪
+
+**Experiment**
+
+Test ideas, tools, and approaches.
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+### 04
+
+🚀
+
+**Improve**
+
+Debug, refine, and build again.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# ⚙️ Mechatronics × Software
+
+Studying **Mechatronics** gives me a perspective that goes beyond software alone.
 
 I'm interested in the intersection of:
 
 <div align="center">
 
-**Software**
-↓
-**AI**
-↓
-**Automation**
-↓
-**Machines & Electronics**
-↓
-**Real-World Systems**
+### `Software` × `AI` × `Automation` × `Machines` × `Electronics`
 
 </div>
 
-My Mechatronics background gives me an additional perspective when thinking about **automation, control, hardware/software interaction, machines, and problem solving**.
+My engineering background helps me explore concepts around:
 
-Rather than treating software and engineering as separate worlds, I enjoy exploring where they can work together.
+* Automation
+* Machines
+* Control
+* Hardware + Software interaction
+* Embedded systems
+* Robotics
+* CNC / machine control
+* Engineering problem solving
 
----
-
-## 🚀 What I'm Building
-
-I learn best by turning concepts into working projects.
-
-My projects and experiments explore areas such as:
-
-* 🌐 Web applications
-* 📱 Flutter applications
-* 🤖 AI-powered tools
-* ⚙️ Automation workflows
-* 🔌 API integrations
-* 🎨 Developer-focused interfaces
-* 🧠 AI agents
-* 🧩 Software and engineering concepts
-
-### Featured Projects
-
-> Projects will be added here as they become ready to showcase.
-
-| Project          | Description                                 | Technologies              |
-| ---------------- | ------------------------------------------- | ------------------------- |
-| **Project Name** | Short description of the problem it solves  | `Technology` `Technology` |
-| **Project Name** | Short description of the application        | `Technology` `Technology` |
-| **Project Name** | Short description of the experiment/product | `Technology` `Technology` |
-
-[→ Explore my repositories](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)
+The goal is not to claim expertise in every one of these areas, but to explore how **software and engineering can work together**.
 
 ---
 
-## 📚 Learning Journey
+# 📊 GitHub Dashboard
 
-My development journey is driven by a continuous cycle:
+<div align="center">
 
-```text
-Learn
-  ↓
-Build
-  ↓
-Experiment
-  ↓
-Break Things
-  ↓
+### 📈 GitHub Overview
+
+<a href="https://github.com/moslimebrahem69-ai">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=moslimebrahem69-ai&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&custom_title=Moslim%27s%20GitHub%20Overview" alt="GitHub statistics">
+
+</a>
+
+<a href="https://github.com/moslimebrahem69-ai">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moslimebrahem69-ai&layout=compact&langs_count=8&hide_border=true&custom_title=Technology%20Distribution" alt="Top languages">
+
+</a>
+
+<br><br>
+
+### 🔥 Contribution Streak
+
+<a href="https://github.com/moslimebrahem69-ai">
+
+<img src="https://streak-stats.demolab.com?user=moslimebrahem69-ai&hide_border=true&border_radius=12&mode=weekly" alt="GitHub contribution streak">
+
+</a>
+
+<br><br>
+
+### 🐍 Contribution Activity
+
+<a href="https://github.com/moslimebrahem69-ai">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation">
+
+</a>
+
+</div>
+
+---
+
+# 🧭 Development Philosophy
+
+<div align="center">
+
+### `Don't just learn technologies. Build with them.`
+
+<br>
+
+<table>
+<tr>
+<td align="center">
+
+**01**
 Understand
-  ↓
+
+</td>
+
+<td>→</td>
+
+<td align="center">
+
+**02**
+Experiment
+
+</td>
+
+<td>→</td>
+
+<td align="center">
+
+**03**
+Build
+
+</td>
+
+<td>→</td>
+
+<td align="center">
+
+**04**
+Break
+
+</td>
+
+<td>→</td>
+
+<td align="center">
+
+**05**
 Improve
-  ↓
-Build Again
-```
 
-I'm continuously strengthening my foundations while exploring new areas of software development, AI, automation, and application development.
-
----
-
-## 🧠 How I Work
-
-I prefer learning through **real implementation** rather than only consuming tutorials.
-
-My workflow usually looks like:
-
-**Understand → Experiment → Build → Debug → Refactor → Document → Improve**
-
-This helps me turn new technologies into practical experience instead of simply collecting them in a list.
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="Moslim's GitHub Stats">
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&langs_count=8" alt="Top Languages">
-</a>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+# 🧩 CodeVerse
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true" alt="GitHub Contribution Streak">
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=900&color=2563EB&center=true&vCenter=true&width=600&lines=CODEVERSE;Build.+Learn.+Share.+Repeat." alt="CodeVerse animation">
 
 </div>
 
----
+**CodeVerse** is my personal technology brand — a space connected to my journey in software development, technology, learning, experimentation, and building.
 
-## 🏷️ Core Technologies
+It's part of my digital identity and the place where I explore ideas and share technical work.
 
-<div align="center">
+🔗 **CodeVerse Website:** [code-verse1.lovable.app](https://code-verse1.lovable.app)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square\&logo=dart\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square\&logo=flutter\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square\&logo=n8n\&logoColor=white)
-
-</div>
+🔗 **CodeVerse Facebook:** [Visit the CodeVerse page](https://www.facebook.com/share/1Eud4EiKmt/)
 
 ---
 
-## 🧩 CodeVerse
-
-<div align="center">
-
-# `CodeVerse`
-
-### My personal developer brand
-
-</div>
-
-**CodeVerse** represents my interest in software development, technology, learning, and building.
-
-It's part of my digital identity and a space where I explore ideas, create technical content, experiment with technologies, and share what I'm learning.
-
-> **Build. Learn. Share. Repeat.**
-
----
-
-## 🎓 Education
+# 🎓 Education
 
 **Delta Technological University (DTU)**
 Faculty of Industry and Energy Technology
@@ -286,33 +579,56 @@ Faculty of Industry and Energy Technology
 
 ---
 
-## 🗺️ Future Direction
+# 🗺️ Future Direction
 
-I'm working toward becoming a stronger software developer while exploring the intersection of:
-
-**Software Development + AI + Automation + Application Development + Mechatronics**
-
-The goal isn't to follow a single technology forever.
-
-It's to build a strong technical foundation, understand modern tools, and use them to create useful products and real-world solutions.
-
----
-
-## 🤝 Let's Connect
+I'm building toward a stronger software development foundation while exploring the intersection of:
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+**Software Development**
+↓
+**AI**
+↓
+**Automation**
+↓
+**Application Development**
+↓
+**Mechatronics**
+
+</div>
+
+The direction is simple:
+
+**Build useful things, understand the technology behind them, and keep improving.**
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/moslimebrahem69-ai">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+
+<a href="https://www.linkedin.com/in/moslim-ebrahim-0ba71b2b9/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+
+<a href="mailto:moslimebrahem69@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-<a href="YOUR_PORTFOLIO">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+
+<a href="https://code-verse1.lovable.app">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+</a>
+
+<a href="https://www.facebook.com/share/1Eud4EiKmt/">
+<img src="https://img.shields.io/badge/CodeVerse-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="CodeVerse">
+</a>
+
+<a href="https://www.facebook.com/share/1HMmdiSH3f/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
 </a>
 
 </div>
@@ -321,8 +637,12 @@ It's to build a strong technical foundation, understand modern tools, and use th
 
 <div align="center">
 
-### Building today. Learning every day. Improving continuously.
+### `Build today. Learn every day. Improve continuously.`
 
-**© Moslim Ebrahim · CodeVerse**
+<br>
+
+**Moslim Ebrahim**
+
+`CodeVerse`
 
 </div>
